@@ -1,4 +1,4 @@
-###### tags: SIB FAIR
+###### tags: `SIB` `FAIR`
 
 # test-md
 
